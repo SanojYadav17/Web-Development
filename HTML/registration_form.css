@@ -1,0 +1,91 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(187, 222, 228);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    margin : 50px auto;
+    width: 400px;
+    background: white;
+    padding: 30px;
+    border-radius: 50px;
+}
+h1{
+    text-align: center;
+    color: rgb(13, 44, 107);
+    height: 0px;
+}
+label{
+    font-size: 18px;
+    color: #1E3A8A;
+}   
+
+#first_name{
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(249, 249, 249);
+    margin-bottom: auto;
+}
+
+#last_name{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(253, 251, 251);
+    margin-bottom: auto;
+}
+
+#Roll_number{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(254, 253, 253);
+    margin-bottom: auto;
+}
+
+#Phone_number{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(253, 248, 248);
+    margin-bottom: auto;
+}
+
+#DOB{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(242, 241, 241);
+    margin-bottom: auto;
+}
+#Email{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(241, 238, 238);
+    margin-bottom: auto;
+}
+
+#Password{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(250, 244, 244);
+    margin-bottom: auto;
+}
+#Address{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(245, 244, 244);
+    margin-bottom: auto;
+}
+.btn{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(230, 54, 54);
+    margin-bottom: auto;
+}
+
+.btn{
+    width: auto;
+    padding: 10px;
+    background-color: rgb(163, 255, 129);
+    margin-bottom: auto;
+}
